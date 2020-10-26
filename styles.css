@@ -14,7 +14,7 @@ font-family: 'Noto Sans';
 
 h1{
 	font-family: Arial;
-	float: left
+	
 	margin-right: auto;
 	margin-top: auto;
 	padding-left: 15px;
@@ -187,11 +187,9 @@ footer img{
   /*border: 1px solid #e7e7e7;
   background-color: #f3f3f3;*/
   width: 50%;
-  float: center; 
 }
 
 footer li {
-  float: center;
   font-family: 'Noto Sans';
   font-size: 1em;
   padding: 5px;
@@ -208,13 +206,11 @@ footer p {
 	margin-left: 300px;
 	display: inline-block;
 	position: static;
-	float: center;
 }
 
 footer small {
 	margin-left: 300px;
 	display: block;
-	float: center;
 	padding-bottom: 15px;
 }
 
